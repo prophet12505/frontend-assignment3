@@ -9,11 +9,12 @@
         2.3 variables
             2.3.1 color palette
             2.3.2 type settings
-        2.4 HTMl character entities
+        2.4 Page Styling
+        2.4.1 HTML entities
         2.4.1 Header/nav
         2.4.2 Main
-    3. Home Layout
-   ========================== */
+        2.4.2 Footer
+
 /* 1. Imports  */
 /* 1.1 css reset */
 @import url(./reset.css);
@@ -25,7 +26,7 @@
 /* 1.3 Add font face/font awesome  */
 /* go https://www.fontsquirrel.com and download a font  */
 /* now go https://www.fontsquirrel.com/tools/webfont-generator to generate web font  */
-@import url(./fonts.css);
+
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 /* 2. General Rules*/
