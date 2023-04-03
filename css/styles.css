@@ -197,9 +197,7 @@ header p a{
     text-decoration: none;
 }
 
-header:hover nav{
-    display: block;
-}
+
 nav{
     display: none;
     width: 100%;
