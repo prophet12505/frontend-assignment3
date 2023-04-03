@@ -73,6 +73,7 @@ viewport {
 body {
 
     font-family: var(--body-fonts);
+    font-weight: 400;
     color: var(--dark-gray-c);
     background-color: var(--light-pink-c);
 }
